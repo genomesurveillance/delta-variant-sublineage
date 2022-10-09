@@ -1,0 +1,55 @@
+# Define locations for which builds should be created.
+# For each build we specify a subsampling scheme via an explicit key.
+builds:
+  # first we'll define a country-level build, focused on Germany.
+  # we'll define the sampling schemes below
+  germany:
+    subsampling_scheme: germany
+    region: Europe
+    country: germany
+    # If we want to have specific files for colors or the auspice_config file *just*
+    # for this build, we can specify this here. 
+    colors: "profiles_global/colors_global.tsv"
+    auspice_config: "profiles_global/auspice_config_saxony_build.json"
+    # We can also set a title for *just* this build.
+    title: "SARS-CoV-2 lineage analysis"
+ 
+subsampling:
+  # Here we use the default subsampling logic for countries
+  germany:
+    # Focal samples for country
+    country:
+      group_by: "division year month"
+      max_sequences: 1500
+      exclude: "--exclude-where 'country!={country}'"
+    # Contextual samples from country's region
+    region:
+      group_by: "country year month"
+      seq_per_group: 300
+      exclude: "--exclude-where 'country={country}'"
+      priorities:
+        type: "proximity"
+        focus: "country"
+    # Contextual samples from the rest of the world,
+    # excluding the current region to avoid resampling.
+    global:
+      group_by: "country year month"
+      seq_per_group: 150
+      exclude: "--exclude-where 'region={region}'"
+      priorities:
+        type: "proximity"
+        focus: "country"
+
+# Here we can specify the colors file & auspice_config to be used for all of the
+# above builds - unless otherwise specified in the builds above!
+# If you don't specify these, the files in `default_config` folder will be used
+files:
+  colors: "profiles_global/colors_global.tsv"
+  auspice_config: "profiles_global/auspice_config_saxony_build.json"
+  description: "profiles_global/my_description.md"
+
+## You could also specify a title which will be used for all builds
+## where you haven't already specified a title above:
+## (Uncomment this to use!):
+title: "SARS-CoV-2 lineage analysis"
+

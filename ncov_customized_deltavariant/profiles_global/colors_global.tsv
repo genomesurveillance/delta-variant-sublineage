@@ -1,0 +1,695 @@
+location	Almada	#5E1D9D
+location	Seixal	#5C1D9F
+location	Sesimbra	#591DA1
+location	Cascais	#561EA3
+location	Sintra	#541EA5
+location	Algueirão-Mem Martins	#511EA8
+location	Cacem	#4F1EAA
+location	Amadora	#4E20AB
+location	Damaia de Cima	#4D22AD
+location	Odivelas	#4C23AF
+location	Peniche	#4B25B0
+location	Las Palmas de Gran Canaria	#4A27B2
+location	Santiago de Compostela	#4928B4
+location	Candamo	#492AB5
+location	Cordoba ES	#482CB7
+location	Valladolid	#472DB8
+location	Muriedas	#462FBA
+location	Madrid	#4531BC
+location	Pedrezuela	#4433BD
+location	Hellin	#4334BF
+location	Haro	#4236C2
+location	Baracaldo	#4138C2
+location	Bizkaia	#4039C4
+location	Vitoria-Gasteiz	#403BC5
+location	Zumarraga	#403EC6
+location	San Sebastian	#4040C6
+location	Pamplona	#4042C7
+location	Zaragoza	#3F44C8
+location	Villena	#3F46C8
+location	Alicante	#3F48C9
+location	Valencia ES	#3F4ACA
+location	Lleida	#3F4CCB
+location	Manresa	#3F4FCB
+location	Barcelona	#3F51CC
+location	Santa Coloma de Gramenet	#3F53CD
+location	Martorelles	#3F55CE
+location	Badalona	#3E57CE
+location	Vilassar de Mar	#3E59CF
+location	Palma	#3E5BD0
+location	Palma de Mallorca	#3E5DD0
+location	Can Pastilla	#3F5FD0
+location	Manacor	#3F61D0
+location	Gibraltar	#4063CF
+location	Cayenne GF	#4065CF
+location	Brest	#4067CF
+location	Quimper	#4169CF
+location	Dinan	#416BCE
+location	Rennes	#416DCE
+location	Nantes	#426FCE
+location	Angers	#4271CE
+location	Rouen	#4273CE
+location	Poitiers	#4375CD
+location	Tours	#4377CD
+location	Paris	#4379CD
+location	Thiais	#447BCD
+location	Amiens	#447DCC
+location	Saint-Gaudens	#457ECB
+location	Toulouse	#4580CA
+location	Vichy	#4681C9
+location	Lyon	#4783C8
+location	Grenoble	#4784C7
+location	Tucquegnieux	#4886C6
+location	Epinal	#4888C5
+location	Marignane	#4989C4
+location	Marseille	#4A8BC3
+location	Mouans-Sartoux	#4A8CC2
+location	Mamoudzou	#4B8EC1
+location	Kortemark	#4C8FC0
+location	Oudenburg	#4C91BF
+location	Ardooie	#4D92BE
+location	Koolskamp	#4D94BD
+location	Meulebeke	#4E95BC
+location	Bassilly	#4F97BB
+location	Givry	#5098B9
+location	Herzele	#5199B8
+location	Anderlues	#529AB6
+location	Woluwe-Saint-Lambert	#529BB5
+location	Koekelberg	#539CB4
+location	Jette	#549DB2
+location	Kapellen	#559EB1
+location	Kontich	#569FAF
+location	Schilde	#57A1AE
+location	Oelegem	#58A2AC
+location	Sterrebeek	#58A3AB
+location	Putte	#59A4A9
+location	Tervuren	#5AA5A8
+location	Bertem	#5BA6A6
+location	Oud-Heverlee	#5CA7A5
+location	Linter	#5DA8A3
+location	Kortenaken	#5EA9A2
+location	Aisemont	#5FA9A0
+location	Jemeppe-sur-Sambre	#60AA9E
+location	Evelette	#61AB9D
+location	Dorinne	#62AB9B
+location	Laakdal	#63AC99
+location	Mol	#65AD98
+location	Couthuin	#66AE96
+location	Lummen	#67AE94
+location	Sint-Truiden	#68AF93
+location	Zolder	#69B091
+location	Leopoldsburg	#6AB18F
+location	Heusden-Zolder	#6BB18E
+location	Houten	#6CB28C
+location	Helmond	#6DB38A
+location	Berlicum	#6EB389
+location	Maastricht	#70B487
+location	Kerkrade	#71B486
+location	Dulliken	#72B584
+location	Basel	#74B583
+location	Riehen	#75B581
+location	Allschwil	#76B67F
+location	Aesch	#78B67E
+location	Heinsberg	#79B77C
+location	Duesseldorf	#7AB77B
+location	Cologne	#7CB879
+location	Guetersloh	#7DB878
+location	Weil Am Rhein	#7EB976
+location	Lörrach	#80B974
+location	Grenzach-Wyhlen	#81B973
+location	Freiburg	#82BA71
+location	Rickenbach	#84BA70
+location	Starnberg	#85BA6F
+location	Munich	#86BB6D
+location	Verona IT	#88BB6C
+location	Vicenza	#89BB6B
+location	Padova	#8BBB69
+location	Belluno	#8CBC68
+location	Rome	#8EBC67
+location	Pordenone	#8FBC66
+location	Trieste	#91BC64
+location	Potenza	#92BC63
+location	Matera	#94BD62
+location	Foggia	#95BD60
+location	Barletta-Andria-Trani	#97BD5F
+location	Bari	#98BD5E
+location	Jönköping	#9ABD5D
+location	Dornbirn	#9BBE5B
+location	Ischgl	#9DBE5A
+location	Hermagor	#9EBE59
+location	Villach	#A0BE59
+location	Landskron	#A1BE58
+location	Klagenfurt	#A3BE57
+location	Vöcklabruck	#A4BE56
+location	Gmunden	#A6BE55
+location	Wels-Land	#A7BE54
+location	Wels-Stadt	#A9BD53
+location	Liezen	#AABD52
+location	Graz	#ACBD51
+location	Weiz	#AEBD50
+location	Hartberg-Fürstenfeld	#AFBD4F
+location	Zwettl	#B1BD4E
+location	Korneuburg	#B2BD4D
+location	Vienna	#B4BD4C
+location	Plzeň	#B5BD4C
+location	Chomutov	#B6BD4B
+location	Dubí	#B8BC4B
+location	Teplice	#B9BC4A
+location	Chlumec	#BBBC49
+location	Tisá	#BCBB49
+location	Litomerice	#BDBB48
+location	České Budějovice	#BFBB48
+location	Příbram	#C0BA47
+location	Neratovice	#C2BA46
+location	Radonice	#C3BA46
+location	Brandýs N. Labem	#C4B945
+location	Zápy	#C6B945
+location	Benešov	#C7B944
+location	Čerčany	#C9B843
+location	Tehovec	#CAB843
+location	Ondřejov	#CBB742
+location	Kostelec N. Černými Lesy	#CCB742
+location	Mladá Boleslav	#CDB642
+location	Nymburk	#CFB541
+location	Liberec	#D0B441
+location	Vratislavice nad Nisou	#D1B340
+location	Jablonec nad Nisou	#D2B340
+location	Horni Jeleni	#D3B240
+location	Staré Hrady	#D4B13F
+location	Brno	#D5B03F
+location	Ostrava	#D6AF3E
+location	Sierosław	#D7AF3E
+location	Rokietnica	#D8AE3E
+location	Dabrowa	#D9AD3D
+location	Przeźmierowo	#DAAC3D
+location	Plewiska	#DCAC3D
+location	Oborniki	#DCAA3C
+location	Poznan	#DDA93C
+location	Baranowo	#DEA83C
+location	Wysławice	#DEA63B
+location	Jarocin	#DFA53B
+location	Kraków	#DFA43B
+location	Warszawa	#E0A23A
+location	Dolný Kubín	#E1A13A
+location	Martincek	#E19F3A
+location	Zehra	#E29E39
+location	Budapest	#E29D39
+location	Novi Pazar	#E39B39
+location	Kraljevo	#E39A38
+location	Kragujevac	#E49938
+location	Pancevo	#E59738
+location	Vrsac	#E59637
+location	Backa Palanka	#E69437
+location	Novi Sad	#E69237
+location	Becej	#E69036
+location	Kikinda	#E68E36
+location	Subotica	#E68C36
+location	Strpce	#E68A35
+location	Lipljan	#E68835
+location	Struga	#E68634
+location	Ohrid	#E68434
+location	Bitola	#E68234
+location	Prilep	#E68033
+location	Veles	#E67E33
+location	Kumanovo	#E67C33
+location	Shtip	#E67A32
+location	Strumica	#E67832
+location	Širvintų rajono savivaldybė	#E67631
+location	Rovaniemi	#E67431
+location	Uzda	#E67131
+location	Kolodishchi	#E56F30
+location	Smalyavichy	#E56C30
+location	Dubrowna	#E56A2F
+location	Mozyr	#E4672F
+location	Kalinkavichy	#E4652E
+location	Rabnita	#E4622E
+location	Yevpatoriya	#E3602D
+location	Novofedorovka	#E35D2D
+location	Simpheropol	#E25B2C
+location	Crimea	#E2582C
+location	Alushta	#E2562B
+location	Saint-Petersburg	#E1532B
+location	Veliky Novgorod	#E1512A
+location	Moscow	#E04E2A
+location	Krasnodar	#E04C29
+location	Ivanovo	#E04929
+location	Zavolzhsk	#DF4728
+location	Kineshma	#DF4428
+location	Astrakhan	#DF4127
+location	Orenburg	#DE3F27
+location	Sysert	#DE3C26
+location	Kashino	#DE3A26
+location	Yekaterinburg	#DD3726
+location	Azovo	#DD3525
+location	Omsk	#DD3225
+location	Tara	#DC3024
+location	Novovarshavka	#DC2D24
+location	Vladivostok	#DC2B23
+location	Petropavlovsk-Kamchatsky	#DB2823
+		
+division	Reykjavik	#5E1D9D
+division	Setúbal	#5C1D9E
+division	Lisbon	#5B1DA0
+division	Portugal	#591DA1
+division	Leiria	#571EA3
+division	Kerry	#561EA4
+division	Mayo	#541EA5
+division	Galway	#521EA7
+division	Limerick	#511EA8
+division	Cork	#4F1EAA
+division	Tipperary	#4F1FAB
+division	Ireland	#4E20AC
+division	Offaly	#4D22AD
+division	Laois	#4D23AE
+division	Westmeath	#4C24AF
+division	Cavan	#4B25B0
+division	Waterford	#4B26B1
+division	Leinster	#4A27B2
+division	Monaghan	#4A28B3
+division	Kildare	#4929B5
+division	Wexford	#482BB6
+division	Meath	#482CB7
+division	Louth	#472DB8
+division	Dublin	#462EB9
+division	Wicklow	#462FBA
+division	Canary Islands	#4530BB
+division	Galicia	#4531BC
+division	Extremadura	#4432BD
+division	Asturias	#4334BE
+division	Andalusia	#4335BF
+division	Castilla y Leon	#4236C2
+division	Cantabria	#4137C2
+division	Madrid	#4138C3
+division	Castilla la Mancha	#4039C4
+division	La Rioja	#403AC4
+division	Basque Country	#403CC5
+division	Navarra	#403DC5
+division	Murcia	#403FC6
+division	Aragon	#4040C6
+division	Comunitat Valenciana	#4042C7
+division	Catalunya	#3F43C7
+division	Balear Islands	#3F44C8
+division	Gibraltar	#3F46C8
+division	Scotland	#3F47C9
+division	Wales	#3F49C9
+division	England	#3F4ACA
+division	Andorra	#3F4BCA
+division	French Guiana	#3F4DCB
+division	Bretagne	#3F4ECB
+division	Pays de la Loire	#3F50CC
+division	Normandie	#3F51CC
+division	Nouvelle-Aquitaine	#3F53CD
+division	Centre-Val de Loire	#3F54CD
+division	France	#3F55CE
+division	Ile de France	#3F57CE
+division	Hauts de France	#3E58CF
+division	Occitanie	#3E5ACF
+division	Auvergne-Rhône-Alpes	#3E5BD0
+division	Grand Est	#3E5CD0
+division	Provence-Alpes-Côte d'Azur	#3F5ED0
+division	Mayotte	#3F5FD0
+division	Diksmuide	#3F60D0
+division	Oostende	#3F62D0
+division	Tielt	#3F63CF
+division	Gent	#4064CF
+division	Ath	#4066CF
+division	Mons	#4067CF
+division	Hainaut	#4068CF
+division	Aalst	#416ACF
+division	La Louvière	#416BCF
+division	Thuin	#416CCE
+division	Brussels	#416DCE
+division	Antwerpen	#426FCE
+division	Halle-Vilvoorde	#4270CE
+division	Mechelen	#4271CE
+division	Belgium	#4273CE
+division	Leuven	#4274CE
+division	Namur	#4375CD
+division	Dinant	#4377CD
+division	Turnhout	#4378CD
+division	Huy	#4379CD
+division	Hasselt	#447ACD
+division	Luxembourg BE	#447CCD
+division	Liège	#447DCC
+division	Zeeland	#457ECB
+division	South Holland	#457FCB
+division	North Holland	#4580CA
+division	Utrecht	#4681CA
+division	North Brabant	#4682C9
+division	Netherlands	#4783C8
+division	Flevoland	#4784C8
+division	Friesland	#4785C7
+division	Limburg	#4886C6
+division	Gelderland	#4887C6
+division	Overijssel	#4988C5
+division	Groningen	#4989C4
+division	Drenthe	#4A8AC4
+division	Luxembourg	#4A8BC3
+division	Geneva	#4A8CC2
+division	Vaud	#4B8DC2
+division	Neuchâtel	#4B8EC1
+division	Fribourg	#4C8FC0
+division	Solothurn	#4C90C0
+division	Valais	#4C92BF
+division	Bern	#4D93BE
+division	Basel-Stadt	#4D94BE
+division	Basel-Land	#4E95BD
+division	Aargau	#4E96BC
+division	Switzerland	#4F96BB
+division	Uri	#4F97BA
+division	Schaffhausen	#5098B9
+division	Zürich	#5098B8
+division	Schwyz	#5199B7
+division	Ticino	#529AB6
+division	Thurgau	#529BB5
+division	Sankt Gallen	#539BB4
+division	Graubünden	#539CB4
+division	Rogaland	#549DB3
+division	Vestland	#549EB2
+division	Vestlandet	#559EB1
+division	More Og Romsdal	#569FB0
+division	Agder	#56A0AF
+division	Vestfold Og Telemark	#57A1AE
+division	Viken	#57A1AD
+division	Trondelag	#58A2AC
+division	Innlandet	#58A3AB
+division	Oslo	#59A3AA
+division	Norway	#5AA4A9
+division	Nordland	#5AA5A8
+division	Troms Og Finnmark	#5BA6A7
+division	Syddanmark	#5BA6A6
+division	Midtjylland	#5CA7A5
+division	Denmark	#5DA8A4
+division	Nordjylland	#5DA8A3
+division	Sjaelland	#5EA9A2
+division	Hovedstaden	#5FA9A0
+division	Copenhagen	#5FAA9F
+division	Liechtenstein	#60AA9E
+division	Saarland	#BD8D35
+division	Rheinland-Pfalz	#E8A46D
+division	North Rhine-Westphalia	#DBA32A
+division	Baden-Wuerttemberg	#BAE378
+division	Baden-Wurttemberg	#BAE378
+division	Hesse	#32736E
+division	Schleswig-Holstein	#FA9A0A
+division	Hamburg	#CCA42B
+division	Germany	#66AE95
+division	Thuringia	#8BBDE0
+division	Bavaria	#54B9EB
+division	Saxony-Anhalt	#284A3C
+division	Brandenburg	#747527
+division	Berlin	#A8A83B
+division	Saxony	#6AB18F
+division	Lower Saxony	#6B4C15
+division	Rhineland-Palatinate	#C460BA
+division	Mecklenburg-Western Pomerania	#C989C3
+division	Bremen	#DED981
+division	Liguria	#6BB18E
+division	Sardinia	#6CB28D
+division	Lombardy	#6CB28C
+division	Tuscany	#6DB38A
+division	Trentino-Alto Adige	#6EB389
+division	Veneto	#6FB388
+division	Umbria	#70B487
+division	Lazio	#71B486
+division	Friuli Venezia Giulia	#71B485
+division	Abruzzo	#72B584
+division	Molise	#73B583
+division	Campania	#74B582
+division	Basilicata	#75B581
+division	Apulia	#76B680
+division	Malta	#77B67F
+division	Slovenia	#77B67E
+division	Novo Mesto	#78B77D
+division	Murska Sobota	#79B77C
+division	Skane	#7AB77B
+division	Blekinge	#7BB77A
+division	Kalmar	#7CB879
+division	Kronoberg	#7DB878
+division	Halland	#7EB877
+division	Gotland	#7EB976
+division	Småland	#7FB975
+division	Jonkoping	#80B974
+division	Vastra Gotaland	#81BA73
+division	Ostergotland	#82BA72
+division	Sormland	#83BA71
+division	Orebro	#84BA70
+division	Stockholm	#85BA6F
+division	Vastmanland	#86BB6E
+division	Sweden	#87BB6D
+division	Uppsala	#88BB6C
+division	Varmland	#89BB6B
+division	Gavleborgs Lan	#8ABB6A
+division	Jamtland	#8BBB6A
+division	Vasternorrland	#8CBB69
+division	Vasterbotten	#8DBC68
+division	Norrbotten	#8EBC67
+division	Vorarlberg	#8FBC66
+division	Tyrol	#90BC65
+division	Carinthia	#91BC65
+division	Upper Austria	#92BC64
+division	Styria	#93BC63
+division	Austria	#93BD62
+division	Lower Austria	#94BD61
+division	Vienna	#95BD60
+division	Burgenland	#96BD5F
+division	Istria	#97BD5F
+division	Zagreb	#98BD5E
+division	Varazdin	#99BD5D
+division	Plzeň Region	#9ABE5C
+division	Usti nad Labem	#9BBE5B
+division	Prague	#9CBE5B
+division	Southern Bohemia Region	#9DBE5A
+division	Central Bohemian Region	#9EBE59
+division	Liberec Region	#9FBE59
+division	Czech Republic	#DB2823
+division	Pardubice Region	#A1BE57
+division	Hradec Králové Region	#A2BE57
+division	South Moravian Region	#A3BE56
+division	Olomouc Region	#A4BE56
+division	Moravian-Silesian Region	#A6BE55
+division	Bihac	#A7BE54
+division	Cazin	#A8BE54
+division	Livno	#A9BD53
+division	Čelinac	#AABD53
+division	Vitez	#ABBD52
+division	Mostar	#ACBD51
+division	Zenica	#ADBD51
+division	Maglaj	#AEBD50
+division	Ilijas	#AFBD4F
+division	Vogosca	#B0BD4F
+division	Sarajevo	#B1BD4E
+division	Lubuskie	#B2BD4E
+division	Zachodniopomorskie	#B3BD4D
+division	Dolnośląskie	#B4BD4C
+division	Wielkopolskie	#B5BD4C
+division	Opolskie	#B6BD4C
+division	Pomorskie	#B7BD4B
+division	Slask	#B7BC4B
+division	Poland	#4236C1
+division	Slaskie	#B9BC4A
+division	Malopolskie	#BABC4A
+division	Swietokrzyskie	#BBBC49
+division	Warminsko-Mazurskie	#BCBB49
+division	Mazowieckie	#BDBB48
+division	Masovia	#BEBB48
+division	Kostoliste	#BFBB48
+division	Bratislava	#C0BA47
+division	Pezinok	#C1BA47
+division	Jatov	#C2BA46
+division	Trenčín	#C3BA46
+division	Nitra	#C4BA46
+division	Nove Zamky	#C5B945
+division	Topolcany	#C5B945
+division	Surany	#C6B944
+division	Banovce nad Bebravou	#C7B944
+division	Partizanske	#C8B844
+division	Levice	#C9B843
+division	Zilina	#CAB843
+division	Martin	#CBB842
+division	Oravska Lesna	#CCB742
+division	Dolny Kubin	#CCB742
+division	Ruzomberok	#CDB642
+division	Tvrdosin	#CEB641
+division	Rimavska Sobota	#CFB541
+division	Revuca	#CFB541
+division	Doľany	#D0B441
+division	Kosice	#D1B340
+division	Pavlovce nad Uhom	#D1B340
+division	Bela nad Cirochou	#D2B240
+division	Montenegro	#D3B240
+division	Albania	#D4B13F
+division	Veszprém County	#D4B13F
+division	Baranya County	#D5B03F
+division	Central Hungary	#D6B03F
+division	Pest County	#D6AF3E
+division	Bács-Kiskun County	#D7AF3E
+division	Csongrád County	#D8AE3E
+division	Heves County	#D9AE3E
+division	Borsod-Abaúj-Zemplén County	#D9AD3D
+division	Békés County	#DAAD3D
+division	Hajdú-Bihar County	#DBAC3D
+division	Szabolcs-Szatmár-Bereg County	#DBAC3D
+division	Leskovac	#DCAB3C
+division	Raška District	#DDAA3C
+division	Nis	#DDA93C
+division	Serbia	#DDA83C
+division	Šumadija District	#DEA73B
+division	Sabac	#DEA63B
+division	Belgrade	#DFA63B
+division	South Banat District	#DFA53B
+division	South Bačka District	#DFA43B
+division	North Banat District	#E0A33A
+division	North Bačka District	#E0A23A
+division	Ferizaj	#E0A13A
+division	Kosovo	#E1A03A
+division	Pristina	#E19F3A
+division	Kosovska Mitrovica	#E29E39
+division	Southwestern Region	#E29D39
+division	Tetovo	#E29C39
+division	Skopje	#E39B39
+division	Pelagonia	#E39B39
+division	North Macedonia	#E49A38
+division	Vardar	#E49938
+division	Northeastern Region	#E49838
+division	Kavadarci	#E59738
+division	Eastern Region	#E59638
+division	Southeastern Region	#E69537
+division	Thessaloniki	#E69437
+division	Athens	#E69337
+division	Telsiai	#E69137
+division	Taurages Apskritis	#E69036
+division	Marijampoles Apskritis	#E68F36
+division	Kauno Apskritis	#E68D36
+division	Vilniaus Apskritis	#E68C36
+division	Vilnius	#E68B35
+division	Utena	#E68935
+division	Hunedoara	#E68835
+division	Mures	#E68735
+division	Romania	#E68534
+division	Valcea	#E68434
+division	Giurgiu	#E68234
+division	Covasna	#E68134
+division	Ploiesti	#E68033
+division	Bucharest	#E67E33
+division	Ilfov	#E67D33
+division	Suceava	#E67C32
+division	Calarasi	#E67A32
+division	Vidin	#E67932
+division	Dupnitza	#E67832
+division	Sofia	#E67631
+division	Pazardzhik	#E67531
+division	Pleven	#E67431
+division	Riga	#E67231
+division	Latvia	#E67030
+division	Harjumaa	#E56F30
+division	Helsinki	#E56D30
+division	Uusimaa	#E56B2F
+division	Finland	#E56A2F
+division	Minsk	#E4682F
+division	Minsk Region	#E4662E
+division	Belarus	#E4652E
+division	Vitebsk Region	#E4632E
+division	Gomel Region	#E3612D
+division	Chisinau	#E3602D
+division	Straseni	#E35E2D
+division	Rezina	#E35C2C
+division	Soroca	#E25B2C
+division	Ivano-Frankivsk	#E2592C
+division	Chernivtsi	#E2572B
+division	Rivne	#E2562B
+division	Kyiv	#E1542B
+division	Ukraine	#E1522A
+division	Crimea	#E1512A
+division	Kharkiv	#E14F2A
+division	Cyprus	#E04D29
+division	Balikesir	#E04C29
+division	Istanbul	#E04A29
+division	Denizli	#E04828
+division	Eskisehir	#DF4628
+division	Ankara	#DF4528
+division	Aksaray	#DF4328
+division	Turkey	#DF4127
+division	Adıyaman	#DE4027
+division	Azerbaijan	#DE3E27
+division	Saint-Petersburg	#DE3C26
+division	Novgorod	#DE3B26
+division	Moscow Oblast	#DE3926
+division	Krasnodar	#DD3726
+division	Ivanovo	#DD3625
+division	Saratov	#DD3425
+division	Astrakhan Region	#DD3225
+division	Orenburg	#DD3024
+division	Sverdlovsk	#DC2F24
+division	Omsk	#DC2D24
+division	Novosibirsk	#DC2B23
+division	Primorsky	#DC2A23
+division	Kamchatka Krai	#DB2823
+division	Europe	#4C90C0
+division	Asia	#5E1D9D
+division	Oceania	#591DA1
+division	North America	#E56A2F
+division	South America	#F06341
+		
+country	Iceland	#5E1D9D
+country	Portugal	#501EA9
+country	Ireland	#4A27B2
+country	Spain	#4531BB
+country	United Kingdom	#E68735
+country	Andorra	#3F46C9
+country	France	#C55AE6
+country	Belgium	#3F5ED0
+country	Netherlands	#4169CF
+country	Luxembourg	#4274CE
+country	Switzerland	#457ECB
+country	Norway	#4887C6
+country	Denmark	#DEB33C
+country	Liechtenstein	#5098B9
+country	Germany	#559EB1
+country	Italy	#7F823E
+country	Malta	#5FA9A0
+country	Slovenia	#65AD97
+country	Sweden	#6BB18E
+country	Austria	#72B485
+country	Croatia	#79B77C
+country	Czech Republic	#DB2823
+country	Bosnia and Herzegovina	#89BB6B
+country	Poland	#4236C1
+country	Slovakia	#99BD5D
+country	Montenegro	#A2BE57
+country	Albania	#AABD52
+country	Hungary	#B3BD4D
+country	Serbia	#BBBC49
+country	Kosovo	#C3BA46
+country	North Macedonia	#CBB842
+country	Greece	#D1B340
+country	Lithuania	#D7AF3E
+country	Romania	#DDAA3C
+country	Bulgaria	#E0A23A
+country	Latvia	#E39B39
+country	Estonia	#E69237
+country	Finland	#E68735
+country	Belarus	#E67B32
+country	Moldova	#E66F30
+country	Ukraine	#E3612D
+country	Cyprus	#E1532B
+country	Turkey	#DF4528
+country	Azerbaijan	#DD3625
+country	Russia	#81B973
+country	Asia	#5E1D9D
+country	Oceania	#591DA1
+country	North America	#E56A2F
+country	South America	#F06341
+		
+recency	Older	#447CCD
+recency	One month ago	#5EA9A1
+recency	One week ago	#8ABB6A
+recency	3-7 days ago	#BEBB48
+recency	1-2 days ago	#E29E39
+recency	New	#E2562B
+		
+region	Europe	#4C90C0
+region	Asia	#5E1D9D
+region	Oceania	#591DA1
+region	North America	#E56A2F
+region	South America	#F06341
